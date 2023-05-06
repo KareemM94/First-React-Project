@@ -1,0 +1,27 @@
+h1 {
+position: absolute;
+width: 242.71px;
+height: 21px;
+left: 40px;
+top: 155px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 150%;
+color: #F5F5F5;
+}
+
+p {
+position: absolute;
+width: 247px;
+height: 61px;
+left: 40px;
+top: 190px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+color: #DCDCDC;
+}

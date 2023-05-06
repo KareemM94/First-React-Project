@@ -1,0 +1,49 @@
+.twitter {
+  position: absolute;
+  left: 15%;
+  right: 65.55%;
+  top: 20px;
+  bottom: 7.32%;
+  color: #918e9b;
+  font-size: 30px;
+}
+
+.facebook {
+  position: absolute;
+  left: 30%;
+  right: 65.55%;
+  top: 20px;
+  bottom: 7.32%;
+  color: #918e9b;
+  font-size: 30px;
+}
+
+.instagram {
+  position: absolute;
+  left: 45%;
+  right: 65.55%;
+  top: 20px;
+  bottom: 7.32%;
+  color: #918e9b;
+  font-size: 30px;
+}
+
+.linkedin {
+  position: absolute;
+  left: 60%;
+  right: 65.55%;
+  top: 20px;
+  bottom: 7.32%;
+  color: #918e9b;
+  font-size: 30px;
+}
+
+.github {
+  position: absolute;
+  left: 75%;
+  right: 65.55%;
+  top: 20px;
+  bottom: 7.32%;
+  color: #918e9b;
+  font-size: 30px;
+}
